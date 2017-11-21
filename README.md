@@ -1,0 +1,3 @@
+# MyBCGenieEffectDemo
+类似Mac的最小化和最大化动画效果
+最小化和最大化动画
